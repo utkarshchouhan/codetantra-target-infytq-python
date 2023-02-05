@@ -1,4 +1,11 @@
-# codetantra-target-infytq-python
-CodeTantra Target Infytq Python Answer
-### Day 1 Practice Programming Solutions have been added and soon the mcqs will be added too.
-### Day 5 Complete Added
+
+# Codetantra Target Infytq (Python) Solutions
+
+
+This repository contains the solutions of daily practice problems for the Codetantra Plateform.
+
+The solutions are complete with all the MCQ's and Codes.
+
+These programs might not be the best optimised option, but it will pass all the test cases.
+
+Day 7 will be added soon.
